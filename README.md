@@ -1,6 +1,8 @@
 # Linux Base Infrastructure Script
 🇺🇸 English | [🇧🇷 Português](README.pt-BR.md)
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 ## Description
 
 This Bash script provisions a basic Linux infrastructure by creating groups, directories, permissions, ownership rules, and users.
